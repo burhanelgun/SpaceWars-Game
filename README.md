@@ -15,7 +15,7 @@ To run this game please use an Ubuntu machine.
 & ./output
 
 ## Screenshots
-###### Menu Screen
+#### Menu Screen
 ![alt text](https://github.com/burhanelgun/SpaceWars-Game/blob/master/spaceWars/menu.png)
 #### Game Play Screen
 ![alt text](https://github.com/burhanelgun/SpaceWars-Game/blob/master/spaceWars/gameplay.png)
