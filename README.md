@@ -13,3 +13,6 @@ To run this game please use an Ubuntu machine.
 
 5.Compile and run the game with this command: gcc main.c -o output `allegro-config --libs` -lm -pedantic-errors -Wall &
 & ./output
+
+
+![alt text](https://github.com/burhanelgun/SpaceWars-Game/blob/master/spaceWars/Screenshot%20from%202017-09-19%2007-48-05.png)
