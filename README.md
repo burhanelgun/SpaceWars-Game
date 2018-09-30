@@ -1,2 +1,2 @@
 # SpaceWars-Game
-This game develop by me with Allegro game library.
+This game was develop with Allegro game library.
