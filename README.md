@@ -1,5 +1,5 @@
 # SpaceWars-Game
-This game was develop with Allegro game library on Ubuntu.
+This game was developped with Allegro game library on Ubuntu.
 
 To run this game please use an Ubuntu machine. 
 
